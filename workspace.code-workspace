@@ -1,7 +1,10 @@
 {
   "folders": [
     {
-      "path": "."
+      "path": "../mini_image_app"
     }
-  ]
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
 }
